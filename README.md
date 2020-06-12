@@ -1,0 +1,2 @@
+# Default-credit-companies
+This is a dataset of Credit Ratings. The data has been collated between 2009 and 2019. The ratings are of Credit Rating Agencies - CRISIL, ICRA, Fitch, CARE, Brickworks and Acuite. Only long-term and short-term ratings are taken. For a company rated between October to March in a particular year say between September 2019 and March 2020, the financial ratios of the companies have been taken as on March 2019. The main idea is to predict which financial ratios predict Default 6 to 12 months before it occurs. 
